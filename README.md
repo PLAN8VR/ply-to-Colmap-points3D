@@ -3,7 +3,7 @@ A simple script to convert a .ply pointcloud file to COLMAP's points3D file form
 
 Dependancies = plyfile
 
-'pip install numpy plyfile'
+pip install numpy plyfile
 
 Place your .ply file (named clean.ply) in the same folder as the script, run the script using 
 
